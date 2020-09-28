@@ -1,0 +1,29 @@
+body { 
+  background-color: #e6ffe6;
+       }  
+
+h1 { 
+font-family: 'Lobster', cursive;
+text-align: center;
+}
+     
+p { 
+  font-family: verdana;
+  font-size: 20px;
+    }
+
+#specificparagraphelement{ font-style:bold;
+text-decoration: line-through;
+}
+
+
+#profile { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 5px;
+  width: 15%;
+ }

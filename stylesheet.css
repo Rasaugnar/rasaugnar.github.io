@@ -9,8 +9,10 @@ text-align: center;
      
 p { 
   font-family: verdana;
-  font-size: 20px;
-    }
+  font-size: 15px;
+  }
+
+.MainPiece{ font-size: 20px;}
 
 #specificparagraphelement{ font-style:bold;
 text-decoration: line-through;
